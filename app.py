@@ -243,6 +243,6 @@ def main():
         else:
             st.warning("No results available. Please complete the quiz first.")
 
-# Entry point of the application
+
 if __name__ == "__main__":
     main()
